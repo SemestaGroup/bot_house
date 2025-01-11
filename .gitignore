@@ -1,0 +1,7 @@
+__pycache__
+*.session
+*.session-journal
+*.json
+bot_modules/*
+bot_pages/*
+config/*
