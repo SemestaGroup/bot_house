@@ -23,6 +23,5 @@ streamlit==1.39.0
 telegraph
 telegraph[aio]
 telethon
-tgcrypto
 typer
 yt-dlp
