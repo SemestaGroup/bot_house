@@ -3,6 +3,7 @@ apscheduler
 bs4
 cryptg
 ffmpeg-python
+ftfy
 gallery-dl
 google-generativeai
 hachoir
