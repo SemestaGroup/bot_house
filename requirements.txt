@@ -5,7 +5,7 @@ cryptg
 ffmpeg-python
 ftfy
 gallery-dl
-google
+google-genai
 google-generativeai
 hachoir
 hydrogram
